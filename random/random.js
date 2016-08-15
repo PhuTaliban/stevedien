@@ -1,6 +1,7 @@
-function quay(){
+﻿function quay(){
     return Math.floor(Math.random() * 100);
 }
+//Giang da sua file nay
 btn.onclick = function(){
     var de = parseInt(sode.value);
     if(isNaN(de)){
